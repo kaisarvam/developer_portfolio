@@ -7,9 +7,7 @@ h1{
 .orange-color{
     color:orange;
 }
-img{
-    height: 700px;
-}
+
 
 section{
     display:flex;
@@ -17,4 +15,9 @@ section{
 
 .half-width{
     width: 50%;
+}
+
+
+.half-width img{
+    height: 700px;
 }
