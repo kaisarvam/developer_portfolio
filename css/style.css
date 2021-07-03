@@ -18,6 +18,15 @@ section{
     padding-left: 10%;
 }
 
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding:10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+}
+
 
 .half-width img{
     height: 700px;
